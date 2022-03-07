@@ -12,13 +12,13 @@
 
 ## Description
 This portfolio contains the last 3 significant projects I have worked on.
-![](./images/secondPortfolio.jpg)
+![](./images/portfolioScreenshot.jpg)
 
 ## License
 This product is under the GNU AGPLv3.
 
 ## Usage
-Visit this page https://arbourkyle.github.io/secondPortfolioarbourkyletyler82/
+Visit this page https://arbourkyle.github.io/thirdPortfoliokyletylerarbour82/
 
 ## Questions
 https://github.com/arbourKyle 
