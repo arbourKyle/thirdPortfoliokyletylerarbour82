@@ -4,14 +4,12 @@
 
 [Description](#description)
 
-[Installation](#installation)
-
 [License](#license)
 
 [Questions](#questions)
 
 ## Description
-This portfolio contains the last 3 significant projects I have worked on.
+
 ![](./images/portfolioScreenshot.jpg)
 
 ## License
