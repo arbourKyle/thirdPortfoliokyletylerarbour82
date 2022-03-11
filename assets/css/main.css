@@ -2301,33 +2301,32 @@
 	}
 	.gitLogoWeather {
 		position: absolute;
-		top: -1.8vh;
-		right: vh;
+		top: -3vh;
 	}
 	.gitLogoExpress {
 		position: absolute;
-		top: -1.8vh;
+		top: -3vh;
 	}
 	.gitLogoNode {
 		position: absolute;
-		top: -1.8vh;
+		top: -3vh;
 	}
 	.gitLogoUmbrella {
 		position: absolute;
-		top: -2.7vh;
+		top: -3vh;
 	}
 	.gitLogoMoment {
 		position: absolute;
-		top: -1.8vh;
+		top: -3vh;
 	}
 	.gitLogoDinner {
 		position: absolute;
-		top: -1.8vh;
+		top: -3vh;
 		
 	}
 	.gitLogoPassword {
 		position: absolute;
-		top: -1.8vh;
+		top: -3vh;
 	}
 	
 
